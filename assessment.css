@@ -1,0 +1,24 @@
+body{
+    background-color:#99d8d9;
+    color:teal;
+    width: 500px;
+    margin-right:auto;
+    margin-left:auto;
+    font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+button{
+padding: 5px 20px;
+background-color: bisque;
+color:teal;
+border-style: none;
+font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+input{
+    height:20px;
+}
+.result{
+    color: darkblue;
+    opacity:1;
+    font-family:'メイリオ', 'Meiryo', sans-serif;
+
+}
